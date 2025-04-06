@@ -1,0 +1,28 @@
+site_name: Gillian Florence
+site_url: https://sitename.example
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: deep purple
+  font:
+      text: Roboto
+  features:
+    - toc.integrate
+nav:
+  - Home: index.md
+  - SFS-X Installation: installation.md 
+  - Overview of Union Rules: union-rules-feature-overview.md
+  - Metadata:
+    - Custom Objects: custom-objects.md
+    - Flows: flows.md
+  - Configuration: configuration.md
+  - Getting Started: getting-started.md
+
+  
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
