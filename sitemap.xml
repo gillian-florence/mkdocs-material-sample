@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/configuration/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/custom-objects/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/flows/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/getting-started/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/installation/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/union-rules-feature-overview/</loc>
+         <lastmod>2025-04-08</lastmod>
+    </url>
+</urlset>
