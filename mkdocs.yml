@@ -12,14 +12,20 @@ theme:
     - toc.integrate
 nav:
   - Home: index.md
-  - SFS-X Installation: installation.md 
-  - Overview of Union Rules: union-rules-feature-overview.md
-  - Metadata:
-    - Custom Objects: custom-objects.md
-    - Flows: flows.md
-  - Configuration: configuration.md
   - Getting Started: getting-started.md
-
+  - SFS-X Installation: installation.md 
+  - Working Alone Timer: 
+    - Overview: wat-overview.md
+    - Metadata: wat-metadata.md
+    - Configuration: 
+      - Overview: wat-configuration.md
+      - Set Up Service Resources and Service Territories: wat-config-setup-service-resource.md
+  - Union Rules: 
+    - Overview: unionrules-overview.md
+    - Metadata: 
+      - Custom Objects: unionrules-metadata-customobjects.md
+      - Flows: unionrules-metadata-flows.md
+    - Configuration: unionrules-configuration.md
   
 markdown_extensions:
   - tables
